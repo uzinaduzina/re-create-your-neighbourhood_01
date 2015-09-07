@@ -79,6 +79,7 @@ Supporting a collective garden is :
 * To guarantee a local dynamic by the management of the site and the development of specific events within and outside the group.
 
 ##Poland - Dom Kultury PRAGA
+[Dom Kultury Praga](http://www.dkpraga.pl)
 
 ![](WarsawPhotos/warsaw_10.jpg)
 Praga Cultural Centre (Dom Kultury PRAGA) is a public institution established in Warsaw in November 2002. Situated in Praga Polnoc district, aims primarily to animate cultural activities locally and enable an easy access to quality creative workshops and art courses. Praga offers a variety of arts and crafts, musics, films and theatre classes, courses and workshops for children, teenagers and adults. A special offer is designed for the disabled and elderly people willing to get engage in the local cultural activities.
