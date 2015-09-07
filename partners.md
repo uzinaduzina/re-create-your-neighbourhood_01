@@ -5,7 +5,10 @@
 
 ##Belgium - La Vénerie
 
+[La Vénerie](http://lavenerie.be)
+
 ![La Vénerie](OtherImages/lavenerie.png)
+
 
 La Vénerie offers the workshop «  Safari photo dans les potagers urbains ». A photography session about urban kitchen gardens in Watermael-Boitsfort, as the seasons change.
 
@@ -83,6 +86,7 @@ Besides, thanks to innovative projects developed by the center, it also attracts
 
 ##Romania - Asociația uzinaduzina
 [Asociația uzinaduzina](http://uzinaduzina.org)
+
 ![uzinaduzina](OtherImages/uzinaduzina.png)
 Engaging the work of a small, energetic and dedicated team of young practitioners, Uzinaduzina aims to support urban culture in Transylvania. Working with young and adult audiences, the team attempts to prompt them to discover the latest trends, but also to remember and acknowledge their recent past, thus contributing to a culture of dialogue between the two age groups.
 
