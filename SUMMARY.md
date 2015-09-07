@@ -9,5 +9,5 @@
    * [3rd Workshop](3rd_workshop.md)
    * [4th Workshop](4th_workshop.md)
    * [5th Workshop](5th_workshop.md)
-* Resources
+* [Resources](resources.md)
 
