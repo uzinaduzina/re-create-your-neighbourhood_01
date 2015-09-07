@@ -82,7 +82,7 @@ The character of the district, facing various social problems and the recent gen
 Besides, thanks to innovative projects developed by the center, it also attracts the audience from other districts as well as Warsaw’s suburban areas. Among these projects, music festivals are highly acclaimed such as EtnoPraga and Contemporary Jewish Music Festival, both inspired by cultural diversity of the district. Involving collaboration with artists, organizations and institutions from various countries, they also bring an international dimension to the programme of the center.
 
 ##Romania - Asociația uzinaduzina
-
+[Asociația uzinaduzina](http://uzinaduzina.org)
 ![uzinaduzina](OtherImages/uzinaduzina.png)
 Engaging the work of a small, energetic and dedicated team of young practitioners, Uzinaduzina aims to support urban culture in Transylvania. Working with young and adult audiences, the team attempts to prompt them to discover the latest trends, but also to remember and acknowledge their recent past, thus contributing to a culture of dialogue between the two age groups.
 
