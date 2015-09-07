@@ -36,13 +36,29 @@ Small balls of soil, fertilizer and flower seeds are prepared and then thrown wh
 During the training session, participants will be creating the « bombs », identify suitable landing places around the city, gently « bomb » the empty patches of land, get a picture with the GPS coordinates and upload the pictures on a map. The map will be made available for others to upload future coordinates.
 
 ![](ClujPhotos/cluj_01.jpg)
+
+---
 ![](ClujPhotos/cluj_02.jpg)
+
+---
 ![](ClujPhotos/cluj_03.jpg)
+
+---
 ![](ClujPhotos/cluj_04.jpg)
+
+---
 ![](ClujPhotos/cluj_05.jpg)
+
+---
 ![](ClujPhotos/cluj_06.jpg)
+
+---
 ![](ClujPhotos/cluj_07.jpg)
+
+---
 ![](ClujPhotos/cluj_08.jpg)
+
+---
 
 ##PARTICIPANTS TO THE CLUJ WORKSHOP
 ---
