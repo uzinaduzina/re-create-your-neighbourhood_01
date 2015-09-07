@@ -1,6 +1,7 @@
 {
     "plugins": [
-        "youtube"
+        "youtube",
+        "fancybox"
     ],
     "pluginsConfig": {}
 }
