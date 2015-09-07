@@ -74,7 +74,7 @@ Supporting a collective garden is :
 
 ##Poland - Dom Kultury PRAGA
 
-
+![](WarsawPhotos/warsaw_10.jpg)
 Praga Cultural Centre (Dom Kultury PRAGA) is a public institution established in Warsaw in November 2002. Situated in Praga Polnoc district, aims primarily to animate cultural activities locally and enable an easy access to quality creative workshops and art courses. Praga offers a variety of arts and crafts, musics, films and theatre classes, courses and workshops for children, teenagers and adults. A special offer is designed for the disabled and elderly people willing to get engage in the local cultural activities.
 
 The character of the district, facing various social problems and the recent gentrification process, influences the program of the center. Therefore, a range of workshops and projects are developed with local non-governmental organizations and artists, schools or public institutions, tackles current social issues. To enable a wider access to cultural activities, many of the workshops and special events are free of charge for the participants.
