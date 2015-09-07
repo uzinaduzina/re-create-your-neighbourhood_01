@@ -1,15 +1,13 @@
 
-# Workshop Cluj Napoca
-
-
+# 1st Workshop - Cluj Napoca, România
+[Asociația uzinaduzina](http://uzinaduzina.org)
+###Cluj-Napoca, Romania, April 2014
 ---
-
 
 In Romania, in Cluj in April 2014, the meeting was attended by 30 participants from Dubrava in Croatia, Warsaw in Poland, Bordeaux in France and Brussels in Belgium, who participated in the meeting and in the various workshops offered by our Romanian partner «Asociatia Uzinaduzina». They experimented the art of wicker braiding, knitting to dress trees and producing seed bombs.
 
 
 ## Urban knitting.
-
 
 
 Knitting was a widely spread handcraft among Romanian homemakers during the communiste era. Lack of clothes and the need to develop a personal style favored this pastime which is now timidly reviving. Nowadays the young population rediscovers knitting especially in their desire to gain a vintage look. More and more are retracing practices once common in their environments but give them a more urban and contemporary direction.
