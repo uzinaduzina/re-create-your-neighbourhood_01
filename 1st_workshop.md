@@ -1,4 +1,3 @@
-![](ClujPhotos/cluj_01.jpg)
 # 1st Workshop - Cluj Napoca, România
 [Asociația uzinaduzina](http://uzinaduzina.org)
 ###Cluj-Napoca, Romania, April 2014
