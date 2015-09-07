@@ -54,8 +54,4 @@ Arts and crafts workshops :
 
 This project has been funded with support from the European Commission. This publication reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein. Re-Create your Neighborhood European ID project is 2013-1-PL1-GRU06-38794 7.
 
-[Life Learning Programme](http://ec.europa.eu/programmes/erasmus-plus/)
-
-
-
-
+[Lifelong Learning Programme](http://ec.europa.eu/programmes/erasmus-plus/)
