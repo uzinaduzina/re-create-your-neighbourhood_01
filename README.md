@@ -37,27 +37,20 @@ Arts and crafts workshops :
 
 ---
 
-####Belgium - La Vénerie
+##### [Belgium - La Vénerie](http://lavenerie.be)
 
-[La Vénerie](http://lavenerie.be)
+#####[Croatia - Narodno sveuciliste Dubrava](http://www.ns-dubrava.hr)
 
+#####[France - Les Jardins d’Aujourd’hui](http://association-les-jardins-daujourdhui.asso-web.com/)
 
-####Croatia - Dubrava Center
-[Narodno sveuciliste Dubrava](http://www.ns-dubrava.hr)
+#####[Poland - Dom Kultury Praga](http://www.dkpraga.pl)
 
-####France - Les Jardins d'Aujourd'hui
-[Les Jardins d’Aujourd’hui](http://association-les-jardins-daujourdhui.asso-web.com/)
-
-####Poland - Dom Kultury PRAGA
-[Dom Kultury Praga](http://www.dkpraga.pl)
-
-####Romania - Asociația uzinaduzina
-[Asociația uzinaduzina](http://uzinaduzina.org)
+#####[Romania - Asociația uzinaduzina](http://uzinaduzina.org)
 
 
 
 ---
-
+##Financed by: 
 
 This project has been funded with support from the European Commission. This publication reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein. Re-Create your Neighborhood European ID project is 2013-1-PL1-GRU06-38794 7.
 
