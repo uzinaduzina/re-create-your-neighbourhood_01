@@ -33,4 +33,36 @@ Arts and crafts workshops :
 * Installing toys, benches, garden furniture lanterns and other items created by workshop participants, which could decorate backyards, squares, balconies and staircases.
 * Creating murals : painting postcard murals depicting landscapes of partner countries or making interactive murals reflecting eg local lifestyle.
 
+## Partners:
+
+---
+
+####Belgium - La Vénerie
+
+[La Vénerie](http://lavenerie.be)
+
+
+####Croatia - Dubrava Center
+[Narodno sveuciliste Dubrava](http://www.ns-dubrava.hr)
+
+####France - Les Jardins d'Aujourd'hui
+[Les Jardins d’Aujourd’hui](http://association-les-jardins-daujourdhui.asso-web.com/)
+
+####Poland - Dom Kultury PRAGA
+[Dom Kultury Praga](http://www.dkpraga.pl)
+
+####Romania - Asociația uzinaduzina
+[Asociația uzinaduzina](http://uzinaduzina.org)
+
+
+
+---
+
+
+This project has been funded with support from the European Commission. This publication reflects the views only of the author, and the Commission cannot be held responsible for any use which may be made of the information contained therein. Re-Create your Neighborhood European ID project is 2013-1-PL1-GRU06-38794 7.
+
+[Life Learning Programme](http://ec.europa.eu/programmes/erasmus-plus/)
+
+
+
 
