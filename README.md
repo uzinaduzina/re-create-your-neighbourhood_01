@@ -27,9 +27,7 @@ Arts and crafts workshops :
 * Silk painting workshops.
 * Batik workshops.
 * Recycling and up-cycling – using a variety of used materials to create toys, benches, garden furniture, lanterns and other items to decorate neighborhoods.
-
-Transforming neighborhoods :
-
+* Transforming neighborhoods;
 * Decorating staircases, with silk painting, batik works, handmade flowers, pots, etc.
 * Decorating backyards/pavements with mosaics, eg depicting chess or hopscotch boards.
 * Installing toys, benches, garden furniture lanterns and other items created by workshop participants, which could decorate backyards, squares, balconies and staircases.
