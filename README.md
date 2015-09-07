@@ -4,7 +4,7 @@
 
 ---
 
-
+![](OtherImages/recrene_logo_color_small.png)
 The launching idea came from Praga Culture Centre from Warsaw in Poland, in an old neighborhood waiting to be renovated. The Cultural center proposed to the inhabitants workshops about decorative crafts such as batik, ceramic, soil painting. Since, they decided to bring this project to European level in a Grundtvig educative partnership. Each partner organize local workshops and a transnational meeting. It widen the project to all that could enhanced urban spaces and quality of life for its inhabitants. A blog, a photo exhibition, a photo guide, a photo edition, an e-book ”users manual” will be realized by the partners.
 
 Objectives and activities :
