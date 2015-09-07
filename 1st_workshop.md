@@ -16,6 +16,8 @@ Urban and guerilla knitting is a way of reclaiming and personalizing sterile or 
 
 Participants will learn how to knit large pieces of textile in a short time and how to prepare them for the urban environment. The knitting can take place at one of the participants house or an informal place, creating a temporary hub. Stories and recipes sharing or singing usually accompany this activity.
 
+{%youtube%}A36mWkPx_qM{%endyoutube%}
+
 
 ## Rush knitting.
 
